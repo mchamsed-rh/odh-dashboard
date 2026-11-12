@@ -1,6 +1,6 @@
 module github.com/kubeflow/notebooks/workspaces/controller
 
-go 1.22.12
+go 1.25.0
 
 require (
 	github.com/go-logr/logr v1.4.2
@@ -57,7 +57,7 @@ require (
 	golang.org/x/exp v0.0.0-20230515195305-f3d0a9c9a5cc // indirect
 	golang.org/x/net v0.26.0 // indirect
 	golang.org/x/oauth2 v0.21.0 // indirect
-	golang.org/x/sys v0.21.0 // indirect
+	golang.org/x/sys v0.44.0 // indirect
 	golang.org/x/term v0.21.0 // indirect
 	golang.org/x/text v0.16.0 // indirect
 	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
